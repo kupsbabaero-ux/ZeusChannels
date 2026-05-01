@@ -415,7 +415,7 @@ https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
 https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/1280px-UFC_Logo.svg.png",UFC (720p)
-https://jmp2.uk/plu-66ed3eb27358ce000830df49.m3u8
+https://jmp2.uk/plu-677d9adfa9a51b0008497fa0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Auto_Motor_Sport_Channel_HD.svg/revision/latest?cb=20210515151511",Auto Motor Sport
 https://jmp2.uk/plu-5f760c3d41aa2d0007bfde19.m3u8
@@ -495,7 +495,7 @@ https://amg01796-amg01796c6-rakuten-fr-5334.playouts.now.amagi.tv/playlist/amg01
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/American_Idol_logo.svg/1280px-American_Idol_logo.svg.png" group-title="Entertainment",American Idol (1080p)
 https://d2yn8dyffvmgy.cloudfront.net/AmericanIdol_GB.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static-resources.redbull.tv/images/smarttv/rallytv/logos/logo-light.svg",Rally group-title="Entertainment".TV FAST+ (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-resources.redbull.tv/images/smarttv/rallytv/logos/logo-light.svg" group-title="Entertainment",Rally .TV FAST+ (1080p)
 https://di4fb7mbsq3nf.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Pocoyo_logo.svg" group-title="Kids",Pocoyo (1080p)
@@ -507,10 +507,11 @@ https://d1nn4ic5ci0eid.cloudfront.net/MasterchefUKPoweredbyBanijay_GB.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNOW.us@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/NBC_News_Now_2023.svg/revision/latest?cb=20250124160436" group-title="Entertainment",NBC News NOW (1080p)
 https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
 
-#EXTINF:-1 tvg-id="Nickelodeon.us@East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Nickelodeon_%282009%29.svg/revision/latest?cb=20180306141612" group-title="Kids",Nickelodeon (1080p)
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="Naruto.us@US"  tvg-logo="",Naruto
+https://jmp2.uk/plu-5da0c85bd2c9c10009370984.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon.us@East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Nickelodeon_%282009%29.svg/revision/latest?cb=20180306141612" group-title="Kids",,Nickelodeon (576i)
-http://79.127.207.193/Nickelodeon/playlist.m3u8
+#EXTINF:-1 tvg-id=""  tvg-logo="",Peppa Pig
+https://jmp2.uk/plu-5d14fb6c84dd37df3b4290c5.m3u8
 
-
+#EXTINF:-1 tvg-id="",Strawberry Shortcake and Friends
+https://jmp2.uk/plu-667f393836a2f90008fd17c0.m3u8
