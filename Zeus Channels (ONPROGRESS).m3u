@@ -53,7 +53,7 @@ http://136.239.173.2:6610/001/2/ch00000090990000001087/manifest.mpd?AuthInfo=v87
 #EXTINF:-1 tvg-id="DepED Tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/DepEd_TV_powered_by_Knowledge_Channel_logo.png/revision/latest/scale-to-width-down/250?cb=20260102235305" group-title="General",DepEd Tv
 http://136.239.158.10:6610/001/2/ch00000090990000001340/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpqUIe1xo9fgdQj%2FdedKSTyytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001832&contentid=ch00000000000000001832&videoid=ch00000090990000001340&recommendtype=0&userid=1586131651828&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1RR87QJ6AY2XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-id="GMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/GMA_Network_2024_logo.png/revision/latest/scale-to-width-down/78?cb=20250327013147" group-title="General",GMA
+#EXTINF:-1 tvg-id="GMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/GMA_Network_2024_logo.png/revision/latest/scale-to-width-down/78?cb=20250327013147" group-title="General" ,GMA
 http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-id="ALL TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/ALLTV2.svg/revision/latest/scale-to-width-down/78?cb=20241207053225" group-title="General",ALL TV
@@ -98,6 +98,9 @@ https://d390zi2w1jc4t4.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="FOX LIVE"  tvg-logo="https://static.foxnews.com/foxnews.com/content/uploads/2022/09/Fox-News-Live.png" group-title="NEWS", FOX LIVE 
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FOX LIVE"  tvg-logo="https://static.foxnews.com/foxnews.com/content/uploads/2022/09/Fox-News-Live.png" group-title="NEWS", Fox Sports
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
+
 #EXTINF:-1 tvg-id="MONDE Asie" tvg logo="https://static.wikia.nocookie.net/logopedia/images/d/db/TV5Monde_2025.svg/revision/latest/scale-to-width-down/78?cb=20251010001858" group-title="General",TV5 MONDE Asie
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 
@@ -139,6 +142,8 @@ https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
 #EXTINF:-1 tvg-id="Unbeaten Sports Channel (1080p)" tvg-logo=https://deadline.com/wp-content/uploads/2019/03/unidentified-1.jpg?w=681&h=383&crop=1" group-title="Entertainment", Unidentified (1080p)
 https://d3ify425qsio2d.cloudfront.net/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Unbeaten Sports Channel (1080p)" tvg-logo=https://deadline.com/wp-content/uploads/2019/03/unidentified-1.jpg?w=681&h=383&crop=1" group-title="Entertainment", Mr Beast Tv (1080p)
+https://aegis-cloudfront-1.tubi.video/cf8b86e9-932a-4454-99c5-32169b6a330f/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BETxTylerPerryComedy" group-title="Entertainment",BET x Tyler Perry Comedy (1080p)
 https://d3vmpkkd3o2grv.cloudfront.net/playlist.m3u8
@@ -507,18 +512,49 @@ https://d1nn4ic5ci0eid.cloudfront.net/MasterchefUKPoweredbyBanijay_GB.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNOW.us@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/NBC_News_Now_2023.svg/revision/latest?cb=20250124160436" group-title="Entertainment",NBC News NOW (1080p)
 https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
 
-#EXTINF:-1 tvg-id="Naruto.us@US"  tvg-logo="",Naruto
+#EXTINF:-1 tvg-id="Naruto.us@US"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/3840px-Naruto_logo.svg.png",Naruto
 https://jmp2.uk/plu-5da0c85bd2c9c10009370984.m3u8
 
-#EXTINF:-1 tvg-id=""  tvg-logo="",Peppa Pig
+#EXTINF:-1 tvg-id="UCAOtE1V7Ots4DjM8JLlrYgg"  tvg-logo="https://1000logos.net/wp-content/uploads/2023/09/Peppa-Pig-Logo.png",Peppa Pig
 https://jmp2.uk/plu-5d14fb6c84dd37df3b4290c5.m3u8
 
-#EXTINF:-1 tvg-id="",Strawberry Shortcake and Friends
+#EXTINF:-1 tvg-id="UCURCSaXYhIsnsiK-jFFZg3w" tvg-logo="https://1000logos.net/wp-content/uploads/2024/05/Strawberry-Shortcake-Logo-2009.png",Strawberry Shortcake and Friends
 https://jmp2.uk/plu-667f393836a2f90008fd17c0.m3u8
 
-#EXTINF:-1 tvg-id=".ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126" group-title="Local", TV5 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/2560px-One_Sports_logo.svg.png" group-title="Local", One Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Nick_Pluto.jpg/revision/latest/scale-to-width-down/1000?cb=20240423015350" group-title="Kids", Nick Pluto Tv
+https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Kids", Little Stars Universe
+https://jmp2.uk/plu-51c75f7bb6f26ba1cd00002f.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Anime_x_HIDIVE_%28White%29.png/revision/latest?cb=20251205045808" group-title="Kids", Anime x HIDIVE
+https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/DisneyJr3Dver.png/revision/latest?cb=20240601030018" group-title="Kids", Disney Jr.
+http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Nickelodeon_%282009%29.svg/revision/latest?cb=20180306141612" group-title="Kids", Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest?cb=20210726224754" group-title="Kids", Cartoon Network
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/The_Walking_Dead.svg/revision/latest?cb=20161016155103" group-title="Kids", The Walking Dead Universe
+https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Showtime_1997.svg/revision/latest?cb=20230614133820" group-title="Entertainment", Showtime
+http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/HBO_Zone_2000_II.svg/revision/latest?cb=20250211155501" group-title="Entertainment", HBO ZONE
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest?cb=20250930051253" group-title="Entertainment", HBO USA
+http://23.237.104.106:8080/USA_HBO/index.m3u8?takodachi
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Yes.svg/revision/latest?cb=20200718174253" group-title="Entertainment", Yes Network
+http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
