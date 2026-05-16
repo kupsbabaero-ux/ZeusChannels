@@ -1,3 +1,5 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/kupsbabaero-ux/ZeusChannels/refs/heads/main/zeus.xml"
+
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest?cb=20251028170524" group-title="News",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -88,6 +90,9 @@ http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?AuthInfo=v87HD
 
 #EXTINF:-1 tvg-id="Tagalized Movie Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Tmc2021logo.png/revision/latest/scale-to-width-down/250?cb=20240612121607" group-title="Entertainment",Tagalized Movie Channel
 http://136.239.159.20:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHx%2Fyl86rMkFVqtHp1NtQIytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001153&contentid=ch00000000000000001153&videoid=ch00000090990000001080&recommendtype=0&userid=1123674387331&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OWFM2G9EILPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tv-philippines/images/c/ce/BilyonaryoNewsChannel_Logo_-_Black_%282024%29.png/revision/latest?cb=20241003053046" group-title="Entertainment", Bilyonaryo News Channel
+https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Barbie and Friends (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Barbie.svg/revision/latest/scale-to-width-down/78?cb=20200804123148" group-title="Kids",Barbie and Friends (1080p)
 https://d1xqdnwy1bo05f.cloudfront.net/barb.m3u8
@@ -232,6 +237,22 @@ https:\\2da101fb625e4278bcbdee20fe5f8b9f.mediatailor.us-east-1.amazonaws.com\v1\
 
 #EXTINF:-1 tvg-id="kpop" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/This_is_K_POP_Channel_M_Logo.png", New Kpop Channel
 https://f0f6ec874bf04c0a8c8e4749a4c2e214.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_NewKPop/playlist.m3u8?ads.wurl_channel=617&ads.wurl_name=NewKPop&ads.coppa=0&ads.device_id=78264151-cb54-4af0-90a2-3d32e618e497&ads.dnt=0&ads.lmt=&ads.us_privacy=1YNN&ads.gdpr=0&ads.consent=&ads.app_name=Whale+TV%2B&ads.app_store=Browser&ads.url=&ads.device_make=&ads.device_model=&ads.tv_language=&ads.tv_vendor=&ads.brand_name=&ads.tv_model=&ads.language=&ads.gender=F%2CM&ads.age=18-20%2C21-24%2C25-29%2C30-34%2C35-39&ads.duration=&ads.content_producer_name=WURL_NEWID_NEWKPOP&ads.content_custom_1_param=WURL&ads.rlaxx_session_id=&ads.height=&ads.width=&ads.rlaxx_iab_category=IAB1&ads.rlaxx_content_category=IAB1%2CIAB1-7%2CIAB1-2%2CIAB1-6&ads.rlaxx_genre=Music&ads.rlaxx_rating=12%2B&ads.livestream=1&ads.max_ad_duration=30&ads.min_ad_duration=5&ads.tag_id=106480&ads.channel_number=0293&ads.placement=1&ads.autoplay=1&ads.mute=0&ads.skip=0
+
+#EXTINF:-1 tvg-id="kpop" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/This_is_K_POP_Channel_M_Logo.png", New Kpop Channel
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/1200.m3u8
+
+#EXTINF:-1 tvg-id="kpop" group-title="Entertainment" tvg-logo="", RomKom K Drama
+https://4df655f2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfUm9tQ29tS0RyYW1hX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="kpop" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Rakuten_Viki_Logo_2019.svg/3840px-Rakuten_Viki_Logo_2019.svg.png", Rakuten Viki Korean
+https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/4300.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Kocowa_logo_01.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", KOCOWA KOREAN
+https://dbrb49pjoymg4.cloudfront.net/10001/99991348/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991348&ads._fw_ifa_type=dpid&ads._fw_did=413d7e29-b63e-b34e-b143-bf0efe32f394&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=Kocowa&ads.csid=xumo_desktopweb_Kocowa_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Action%2CAdventure%2CComedy%2CCrime%2CDrama%2CFamily%2CFantasy%2CHorror%2CMystery%2CRomance%2CSci-Fi%2CThriller%2CWar%2CWestern%2CSuperhero&ads._fw_content_category=IAB1-7&ads._fw_content_language=undefined&ads._fw_content_genre=International&ads._fw_content_rating=TV-14&ads.xumo_contentId=285&ads.xumo_contentName=Kocowa&ads.xumo_providerId=285&ads.xumo_providerName=Kocowa&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991348&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.18.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
+
+
+#EXTINF:-1 tvg-id="kpop" group-title="Entertainment" tvg-logo="https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/default/dw341ef56c/images/logo-new.svg", TravelOmn (KOREA)
+https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg15905-mediacan-travelon-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
 
 #EXTINF:-1 tvg-id="movies!" group-title="Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Movies.com_Logo_2.svg/revision/latest/scale-to-width-down/200?cb=20170722113154", Movies!
 https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/tracks-v1a1/mono.ts.m3u8
@@ -386,6 +407,15 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951530/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 tvg-id="99951467" tvg-name="Bad Girls Club" tvg-logo="https://image.xumo.com/v1/channels/channel/99951467/168x168.png?type=color_onBlack" group-title="Kids",Bad Girls Club
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951467/hls/master.m3u8?ads.xumo_channelId=99951467&ads.asnw=535279&ads.afid=440668005&ads.sfid=23858505&ads.csid=xumo_web_versantbadgirlsclub_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=b04590c3-025e-49bf-8e42-0867e032f1c5&ads._fw_vcid2=512116:b04590c3-025e-49bf-8e42-0867e032f1c5&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=Reality,Drama,GD,Entertainment,GV,Reality-TV,Reality+Shows&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=xumoplay&ads.xumo_contentId=4301&ads.xumo_contentName=VersantBadGirlsClub&ads.xumo_providerId=4301&ads.xumo_providerName=VersantBadGirlsClub&ads.channelId=99951467&ads._fw_ifa_type=
 
+#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="" group-title="Entertainment", 3rsMovieBoxPh
+https://live20.bozztv.com/giatvplayout7/giatv-210731/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="" group-title="Entertainment", 3rsSinePinoy
+https://live20.bozztv.com/giatvplayout7/giatv-210267/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="" group-title="Entertainment", MovieBox Ph
+https://live20.bozztv.com/giatvplayout7/giatv-210731/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Just_For_Laughs_Gags.png" group-title="Entertainment", Just For Laughs Gags (720p)
 https://distributionsjustepourrire-justforlaughsgags-1-no.samsung.wurl.tv/playlist.m3u8
 
@@ -465,8 +495,17 @@ https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids", Little Stars Universe
 https://jmp2.uk/plu-51c75f7bb6f26ba1cd00002f.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/kmbpmock/images/2/27/CCPh_Mod_2025.png/revision/latest?cb=20260111134656" group-title="Kids", Cartoon Channel PH
+https://live20.bozztv.com/giatv/giatv-cartoonchannelph/cartoonchannelph/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Kids", 3rsCartoonMovies
+https://live20.bozztv.com/giatvplayout7/giatv-211507/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Anime_x_HIDIVE_%28White%29.png/revision/latest?cb=20251205045808" group-title="Kids", Anime x HIDIVE
 https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Anime_x_HIDIVE_%28White%29.png/revision/latest?cb=20251205045808" group-title="Kids", Anime x HIDIVE 2
+https://amc-anime-x-hidive-1-us.tablo.wurl.tv/3000.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/DisneyJr3Dver.png/revision/latest?cb=20240601030018" group-title="Kids", Disney Jr.
 http://84.17.50.102/disneyjunior/index.m3u8
@@ -624,9 +663,7 @@ https://jmp2.uk/plu-5d14fb6c84dd37df3b4290c5.m3u8
 https://jmp2.uk/plu-667f393836a2f90008fd17c0.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/2560px-One_Sports_logo.svg.png" group-title="Local", One Sports
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
+https://plain-forest-06a6.jamesgpt143.workers.dev/?url=https%3A%2F%2Fqp-pldt-live-bpk-01-prod.akamaized.net%2Fbpk-tv%2Fcg_onesportsplus_hd1%2Fdefault%2Findex.mpd&ua=Dalvik%2F2.1.0+%28Linux%3B+U%3B+Android+12%3B+Pixel+6+Build%2FSD1A.210817.036%29
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Showtime_1997.svg/revision/latest?cb=20230614133820" group-title="Entertainment", Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
@@ -637,7 +674,7 @@ http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/HBO_Zone_2000_II.svg/revision/latest?cb=20250211155501" group-title="Entertainment", HBO COMEDY
 http://41.205.64.66/HBO-COMEDY/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest?cb=20250930051253" group-title="Entertainment", HBO USA
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest?cb=20250930051253" group-title="Entertainment", HBO 
 http://23.237.104.106:8080/USA_HBO/index.m3u8?takodachi
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Yes.svg/revision/latest?cb=20200718174253" group-title="Entertainment", Yes Network
@@ -651,6 +688,9 @@ http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/FX.svg/revision/latest?cb=20230308161014" group-title="Entertainment", FX
 http://23.237.104.106:8080/USA_FX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/FX_Movie_Channel.svg/revision/latest?cb=20161008111221" group-title="Entertainment", FX MOVIES
+https://fxtvhls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/FXX.svg/revision/latest?cb=20161008111050" group-title="Entertainment", FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
@@ -752,13 +792,32 @@ https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J
 tvN3,https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8?
 
-#EXTM3U
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
 
-#EXTINF:-1,TV5 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1280px-Logo_tvN.svg.png" group-title="Entertainment", CINEMA ONE GLOBAL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/2f36c75a-7d33-4ce3-934e-421c4f4ddc38/index.mpd
+
+#EXTINF:-1 tvg-name="CineMo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/1500364185_cinemo-web.jpg/revision/latest?cb=20171125051830" group-title="Entertainment", CineMo
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/99ffbce4-d840-4241-9f35-dbdb0bfed50d/index.mpd
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMO!" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="Entertainment",Cinemo! Global
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:aab1df109d22fc5d7e3ec121ddf24e5f
+https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd
+
+#EXTINF:-1 tvg-id="Cinema.One.ph" tvg-name="Cinema One" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/94/Cinema_One_Logo_2020.png" group-title="Entertainment",Cinema One Global
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c
+https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
+
+
+#EXTINF:-1 tvg-name="TV5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/TV5_logo_2019.svg" group-title="Local",TV5 HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
 
 #EXTM3U
